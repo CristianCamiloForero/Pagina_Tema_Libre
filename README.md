@@ -1,4 +1,4 @@
-A través de este ejercicio aprendí a estructurar una página web haciendo un uso correcto de las etiquetas HTML, aplicando buenas prácticas como el uso adecuado de la etiqueta <section> para separar claramente cada sección dentro de una página lo cual mejora la organizacion del contenido dentro de la pagina.
+A través de este ejercicio aprendí a estructurar una página web haciendo un uso correcto de las etiquetas HTML, aplicando buenas prácticas como el uso adecuado de la etiqueta (section) para separar claramente cada sección dentro de una página lo cual mejora la organizacion del contenido dentro de la pagina.
 
 Además, aprendí a escoger colores adecuados para el diseño de la página, teniendo en cuenta cosas como la experiencia de usuario.
 
